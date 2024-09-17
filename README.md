@@ -1,4 +1,4 @@
-<h1 align="center">Greetings ✨, I'm Achraf CHAIR <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Greetings ✨, I'm Ali OUBRAIM <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <span align="center">  
   <a href="https://git.io/typing-svg">
@@ -34,7 +34,7 @@
 <h2 align="left">🚀 Languages and Tools:</h2>
 <p align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=github,git,html,css,js,ts,react,redux,nextjs,vue,vuetify,tailwind,bootstrap,nodejs,express,mongodb,mysql,docker,postman,npm,vite,vercel,flutter,wordpress,materialui,figma,vscode,stackoverflow,&perline=12)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=github,git,html,css,js,ts,react,redux,nextjs,vuetify,tailwind,bootstrap,nodejs,express,mongodb,mysql,postman,npm,vite,vercel,materialui,figma,vscode,stackoverflow,&perline=12)](https://skillicons.dev)
 </p>
 
 
