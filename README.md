@@ -17,17 +17,17 @@
 -🌱 I’m currently learning **Flutter**
 
 
--💬 Ask me about **MERN stack and related technologies**
+-💬 Ask me about **MERN Stack and Related Technologies**
 
--📫 How to reach me **achrafchair56@gmail.com**
+-📫 How to reach me **oubraimali33@gmail.com**
 
 <h2 dir="auto">  
 📱 Connect with me :
 </h2>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/achraf-chair-2267402b3/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="achraf-chair-linkedin" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/ali-oubraim" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-oubraim-linkedin" height="30" width="40" />
   </a>
 </p>
 
